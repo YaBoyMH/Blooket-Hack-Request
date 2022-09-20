@@ -4,3 +4,5 @@ All this code has not been done by me but different people. Such as @therealgliz
 I will update the list of people as I list code on it.
 
 Also go and check out all their repositorys too I am not giving them to you I am trying to find something that you need! Although there is some hacks that people may want to have in the repository thanks!
+
+Also thank my friend Joseph for helping! 👍
