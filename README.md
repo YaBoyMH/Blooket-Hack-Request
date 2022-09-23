@@ -3,6 +3,8 @@ All this code has not been done by me but different people. Such as @therealgliz
 
 🚨(!I try to help people find hacks not make them, so most of the time if you name something that isn't possible or hasn't been made yet, I probably won't end up giving you anything!)🚨
 
+🚨(!Please close your own issues and don't maek me close them, otherwise the issues tab will be flooded with issues!)🚨
+
 I will update the list of people as I list code on it.
 
 Also go and check out all their repositorys too I am not giving them to you I am trying to find something that you need! Although there is some hacks that people may want to have in the repository thanks!
